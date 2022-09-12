@@ -4,7 +4,7 @@ permalink: LINKS/
 <span style="color:red; font-weight:bold; font-size:larger;">By Dimitri Si ORI</span>
 <br><br>
 [HOME](https://dimitripn.github.io/os222) ---
-[LINKS] ---
+[LINKS](https://dimitripn.github.io/os222/LINKS/) ---
 [LOG](TXT/mylog.txt) ---
 [GITHUB](https://github.com/dimitripn/os222)
 <br>
@@ -26,6 +26,6 @@ Because there are a lot of videos in there that I can watch to study about this 
 
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- Dimitri Si ORI --- Version: {{ site.version }}.
 <hr>
 <br>
