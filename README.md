@@ -1,10 +1,2 @@
 # os222
-
-[GitHub Page](https://dimitripn.github.io/os222/) ---
-[TARBALL](SandBox/dimitripn.tar.xz) ---
-[myLOG](TXT/mylog.txt) ---
-[GitHub](https://github.com/dimitripn/os222/)
-<br><br>
-<span style="color:red; font-weight:bold; font-size:larger;">Website ORI! Anti KW!</span>
-<hr>
-Version: {{ site.version }}
+Operating Systems 2022-2
