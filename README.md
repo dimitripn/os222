@@ -5,6 +5,6 @@
 [myLOG](TXT/mylog.txt) ---
 [GitHub](https://github.com/dimitripn/os222/)
 <br><br>
-<span style="color:red; font-weight:bold; font-size:larger;">This is the WAY!</span>
+<span style="color:red; font-weight:bold; font-size:larger;">Website ORI! Anti KW!</span>
 <hr>
 Version: {{ site.version }}
