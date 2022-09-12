@@ -3,8 +3,8 @@ permalink: LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By Dimitri Si ORI</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS](.) ---
+[HOME](https://dimitripn.github.io/os222) ---
+[LINKS] ---
 [LOG](TXT/mylog.txt) ---
 [GITHUB](https://github.com/dimitripn/os222)
 <br>
