@@ -24,7 +24,7 @@ I think Youtube is also useful to help me understand this course.
 Because there are a lot of videos in there that I can watch to study about this course.
 
 3. [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)<br>
-I think this website is useful because this can help resolve some problem in Linux.
+I think this website is useful because it can help me resolve some problem in Linux.
 
 
 <br>
