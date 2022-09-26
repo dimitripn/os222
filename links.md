@@ -26,6 +26,8 @@ Because there are a lot of videos in there that I can watch to study about this 
 3. [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)<br>
 I think this website is useful because it can help me resolve some problem in Linux.
 
+4. [Basic Vi Commands](https://docs.oracle.com/cd/E19683-01/806-7612/editorvi-43/index.html)<br>
+I thinks it's very useful for modifying text in linux.
 
 <br>
 <hr>
