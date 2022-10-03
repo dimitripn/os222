@@ -29,6 +29,12 @@ I think this website is useful because it can help me resolve some problem in Li
 4. [Basic Vi Commands](https://docs.oracle.com/cd/E19683-01/806-7612/editorvi-43/index.html)<br>
 I thinks it's very useful for modifying text in linux.
 
+5. [Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g)
+This is the video that I found in Youtube that I think very useful because it can help me to understand about bash more.
+
+6. [Linux in 100 Seconds](https://youtu.be/rrB13utjYV4)
+This is also the video that I found in Youtube that I think useful because it can gelp me to understand about linux more.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- Dimitri Si ORI --- Version: {{ site.version }}.
