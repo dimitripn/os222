@@ -35,6 +35,12 @@ This is the video that I found in Youtube that I think very useful because it ca
 6. [Linux in 100 Seconds](https://youtu.be/rrB13utjYV4)<br>
 This is also the video that I found in Youtube that I think useful because it can gelp me to understand about linux more.
 
+7. [File System Concept in Operating System](https://www.youtube.com/watch?v=mzUyMy7Ihk0)<br>
+This is important for me because it helps me learn the fundamental concept of file system.
+
+8. [How to compile your C file using Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
+This is also good because it contains a tutorial of compiling C programming file using makefile.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- Dimitri Si ORI --- Version: {{ site.version }}.
