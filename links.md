@@ -41,6 +41,9 @@ This is important for me because it helps me learn the fundamental concept of fi
 8. [How to compile your C file using Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
 This is also good because it contains a tutorial of compiling C programming file using makefile.
 
+9. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
+This website also help me to learn about IPC, and understand that IPC is a mechanism that allows processes to communicate with each other and synchronize their actions.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- Dimitri Si ORI --- Version: {{ site.version }}.
