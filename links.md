@@ -44,6 +44,9 @@ This is also good because it contains a tutorial of compiling C programming file
 9. [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
 This website also help me to learn about IPC, and understand that IPC is a mechanism that allows processes to communicate with each other and synchronize their actions.
 
+10. [Deadlock in Operating System](https://www.scaler.com/topics/operating-system/deadlock-in-os/)
+This website helps me understand about deadlocks in OS. The explanation is simple and easy to understand.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- Dimitri Si ORI --- Version: {{ site.version }}.
